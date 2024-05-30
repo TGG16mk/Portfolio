@@ -194,8 +194,8 @@ p{
     width: 165px;
 }
 .sidebarGo{
-    transform: translate: (-443px, 0px);
-    position: absolute;
+    /* transform: translate(-443px, 0px); */
+    /* position: absolute; */
 }
 .hamburger{
     position: absolute;
@@ -207,12 +207,11 @@ p{
     margin-left: 159px;
 }
 .sidebar{
-    {
-        transform: translate: (-443px, 0px);
-        position: absolute;
-    }
+        /* transform: translate(-443px, 0px); */
+        /* position: absolute; */
 }
 .skillscontainer{
-    padding: 70px;
-    margin: 40px;
+    /* border: 2px black solid; */
+    padding: 20px 10px;
+    margin: 20px 0;
 }
